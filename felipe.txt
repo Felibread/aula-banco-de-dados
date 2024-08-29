@@ -1,0 +1,34 @@
+DBMS (Database Management System)
+
+SGBD'R (Sistema gerenciador de banco de dados)  X  BD (Banco de dados) - conj. de dados
+
+Oracle                                                              Tema
+My Sql
+Sql server
+
+
+
+                                                    Dado[não permite uma tomada de decisão]  X  Informação[conjunto de dados organizados de maneira lógica]   X  Conhecimento[Tomada de decisão]
+
+
+
+
+
+
+sqlmagazine.com.br
+
+
+         Modelo descritivo - como funciona - regras de negócio - levantamento de dados
+        /  
+Proj BD - A/B
+        \
+          Modelo Conceitual - BR ou D. Modeler  
+                                              \
+                                                Mundo Real = Mundo BD - Entidade - relacionamento - atributo
+
+
+A - Modelo Lógico/ Relacional
+  - Transição prática do BD 
+
+B - Modelo Físico 
+  - Prática = Sql
